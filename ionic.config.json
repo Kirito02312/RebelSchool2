@@ -1,0 +1,7 @@
+{
+  "name": "rebelSchool",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
